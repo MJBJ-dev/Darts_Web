@@ -1,0 +1,9 @@
+theme: jekyll-theme-minimal
+title: Darks_Web
+description: Bookmark this to keep an eye on my project updates!
+compress: true
+headers:
+    '*.js':
+      - 'Content-Encoding: gzip'
+    '*.wasm':
+      - 'Content-Encoding: gzip'
